@@ -1,0 +1,8 @@
+1. React Router + Protected Routes 
+2. Context API 
+3. Styled component (Theme + GlobalStyles)
+4. React Toastify 
+5. Formik & Yup validation
+6. Custom Hooks - LocalStorage
+7. React Enviroment Variables 
+8. Axios
